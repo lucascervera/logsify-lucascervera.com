@@ -43,8 +43,6 @@
 
 - ## Videos [(ver todos)](https://drive.google.com/embeddedfolderview?id=1diGCwk93dDO-bQzlUU074Rc8FeACiPiR#grid)
   
-  <iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/W87qlEmt6uY?si=tncO55r4PAvDGs17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen"></iframe>
-  
   <iframe loading="lazy" style="width: 100%; height: 600px; border: 0;" data-responsive="false" src="https://drive.google.com/embeddedfolderview?id=1diGCwk93dDO-bQzlUU074Rc8FeACiPiR#grid"></iframe>
 
 - ## Fotos ([ver todas](https://drive.google.com/embeddedfolderview?id=1i5gF58MuRhwEacNkJK-iJq9YZfeOvEsu#grid))
@@ -60,7 +58,7 @@
   - [Herramienta de naming para startups](https://docs.google.com/spreadsheets/d/1KOiSPOmuKIPb2ZKQFuBNmb94e2ll2CQY8zIucCsF7jo/) Encuentra el nombre perfecto para tu startup
   - [sheet2web](https://github.com/lucascervera/sheet2web) Publica datos de una hoja de cálculo como un directorio web.
 
-  💡 Todos estos recursos compartidos por [Lucas Cervera](http://lucascervera.com/) están licenciados bajo una [Licencia Creative Commons Atribución 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/). Si los modificas, por favor incluye un enlace a [http://lucascervera.com](http://lucascervera.com/)
+  💡 Todos estos recursos compartidos por [Lucas Cervera](http://lucascervera.com/) están licenciados bajo una [Licencia Creative Commons Atribución 4.0 Internacional](http://creativecommons.org/licenses/by/4.0/). Si los modificas, por favor incluye un enlace a [https://lucascervera.com](http://lucascervera.com/)
 
 - ## Contacto
   
