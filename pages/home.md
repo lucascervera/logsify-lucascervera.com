@@ -34,7 +34,7 @@
   - [Fundación Iniciador](http://iniciador.com/) (2007), ~1000 charlas para emprendedores organizadas
   - [metoCube](https://www.youtube.com/watch?v=Gs-u9KTFNYs) (2004), un software de documentación de procesos vendido a nivel mundial
 
-- ## **Profesor y asesor**
+- ## Profesor y asesor
   
   - **Profesor de Diseño de Negocios** 800 horas de clase a 1800 estudiantes
   - **Asesor/Mentor de Startups** más de 2800 horas de mentoría a 750 emprendedores
