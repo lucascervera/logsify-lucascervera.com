@@ -63,3 +63,5 @@
 - ## Contacto
   
   lucas @ lucascervera.com
+
+- <div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="lucascervera" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://es.linkedin.com/in/lucascervera?trk=profile-badge">Lucas Cervera</a></div>
