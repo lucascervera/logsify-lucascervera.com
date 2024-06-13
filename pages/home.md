@@ -29,9 +29,9 @@
   - [metoCube](https://www.youtube.com/watch?v=Gs-u9KTFNYs) (2004), un software de documentación de procesos vendido a nivel mundial
 - ## Actividades
   - **Comunicación y divulgación** en [innovación](https://innteresante.com/#/pages/videos), [inteligencia artificial](https://innteresante.com/#/pages/ia) e [IA aplicada](https://impulsar.ai/#/pages/videos).
-  - **Formador** 800 horas de clase a 1800 estudiantes
-  - **Asesor/Mentor de Startups** más de 2800 horas de mentoría a 750 emprendedores
-  - **Conferencista** más de 120 charlas y talleres con más de 5000 asistentes
+  - **Formadoción** 800 horas de clase a 1800 estudiantes
+  - **Asesoramiento de Startups** más de 2800 horas de mentoría a 750 emprendedores
+  - **Conferencias** más de 120 charlas y talleres con más de 5000 asistentes
   - **Medios** He participado en más de 100 eventos con medios (TV, radio, prensa...)
 - ## Videos [(ver todos)](https://drive.google.com/embeddedfolderview?id=1diGCwk93dDO-bQzlUU074Rc8FeACiPiR#grid)
   
