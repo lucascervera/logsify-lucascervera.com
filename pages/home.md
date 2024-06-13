@@ -18,7 +18,7 @@
     </div>
   </section>
   
-  <h2> Fundador de 3 startups y 1 fundación en los campos de internet, software y emprendimiento. Actualmente enfocado en la innovación y la aplicación de inteligencia artificial a los negocios.</h2>
+  <h2>Fundador de 3 startups y 1 fundación en los campos de internet, software y emprendimiento. Actualmente enfocado en la innovación y la aplicación de inteligencia artificial a los negocios.</h2>
   - **Startups** (Internet, Software, Aceleradora)
   - **Profesor** (Inteligencia Artificial, Innovación, Startups, Emprendimiento)
   - **Asesor de startups** (Modelo de negocio, Diseño y Validación de negocio)
