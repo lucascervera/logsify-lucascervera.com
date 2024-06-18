@@ -10,7 +10,6 @@
             <div class="iframe-container">
               <div class="iframe-wrapper">
                 <img src="../assets/lucas.png">
-                <img src="../assets/lucas_cervera.png">
               </div>
             </div>
           </div>
