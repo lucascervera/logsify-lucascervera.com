@@ -39,7 +39,7 @@
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTkuNjE1IDMuMTg0Yy0xLjU4Ny0uODYzLTUuNTYyLTEuMTg0LTcuNjE1LTEuMTg0cy02LjAyOC4zMjEtNy42MTUgMS4xODRjLTEuNTU1Ljg0NS0yLjM4NSAyLjgwMS0yLjM4NSA2LjgxNnY0YzAgNC4wMDMuODI2IDUuOTU4IDIuMzg1IDYuODAzIDEuNTg3Ljg2MyA1LjU2MiAxLjE5NyA3LjYxNSAxLjE5NyAyLjA1MyAwIDYuMDI4LS4zMzQgNy42MTUtMS4xOTcgMS41NTUtLjg0NSAyLjM4NS0yLjggMi4zODUtNi44MDN2LTRjMC00LjAxNS0uODI2LTUuOTcxLTIuMzg1LTYuODE2em0tMTAuNjE1IDExLjgxNnYtOGw3IDQtNyA0eiIvPjwvc3ZnPg==" alt="YouTube" style="width: 24px; height: 24px; margin-right: 10px;">
 <span style="font-size: 16px; font-weight: bold;">innteresante</span>
 </a>
-<a href="[ es/videos](https://impulsar.ai/#/pages/videos)" target="_blank" style="color: #fff; text-decoration: none; display: flex; align-items: center;">
+<a href="https://impulsar.ai/#/pages/videos" target="_blank" style="color: #fff; text-decoration: none; display: flex; align-items: center;">
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMTkuNjE1IDMuMTg0Yy0xLjU4Ny0uODYzLTUuNTYyLTEuMTg0LTcuNjE1LTEuMTg0cy02LjAyOC4zMjEtNy42MTUgMS4xODRjLTEuNTU1Ljg0NS0yLjM4NSAyLjgwMS0yLjM4NSA2LjgxNnY0YzAgNC4wMDMuODI2IDUuOTU4IDIuMzg1IDYuODAzIDEuNTg3Ljg2MyA1LjU2MiAxLjE5NyA3LjYxNSAxLjE5NyAyLjA1MyAwIDYuMDI4LS4zMzQgNy42MTUtMS4xOTcgMS41NTUtLjg0NSAyLjM4NS0yLjggMi4zODUtNi44MDN2LTRjMC00LjAxNS0uODI2LTUuOTcxLTIuMzg1LTYuODE2em0tMTAuNjE1IDExLjgxNnYtOGw3IDQtNyA0eiIvPjwvc3ZnPg==" alt="YouTube" style="width: 24px; height: 24px; margin-right: 10px;">
 <span style="font-size: 16px; font-weight: bold;">impulsar.ai</span>
 </a>
