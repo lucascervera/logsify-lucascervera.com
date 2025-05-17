@@ -1,24 +1,19 @@
-<section>
-  <div class="items-center">
-    <div class="flex w-full mx-auto text-left">
-      <div class="relative inline-flex items-center mx-auto align-middle">
-        <div class="text-center">
-          <h1 class="home max-w-4xl text-2xl font-bold leading-none tracking-tighter text-neutral-600 md:text-5xl lg:text-6xl lg:max-w-7xl">
-            Lucas Cervera
-          </h1>
-          <p class="text-gray-500">Emprendedor | Asesor | Profesor especializado en inteligencia artificial e innovación</p>
-          <div class="iframe-container">
-            <div class="iframe-wrapper">
-              <img src="../assets/lucas.png">
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-  
-  <h2>Fundador de 3 startups y 1 fundación en los campos de internet, software y emprendimiento. Actualmente enfocado en innovación y la aplicación de Inteligencia Artificial a modelos de negocio.</h2>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PQQY873JFC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+
+  gtag('config', 'G-PQQY873JFC');
+</script>
+
+# Hero section
+![Lucas Cervera](../assets/lucas_video.webp)
+## Lucas Cervera
+### Emprendedor | Asesor | Profesor especializado en inteligencia artificial e innovación</p>
+
+# Fundador de 3 startups y 1 fundación en los campos de internet, software y emprendimiento. Actualmente enfocado en innovación y la aplicación de Inteligencia Artificial a modelos de negocio.</h2>
 
 ## Perfil profesional
   - [innV0](https://innV0.com) (2025), plataforma especializada en la fase inicial del proceso de innovación. 
